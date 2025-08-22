@@ -1,3 +1,4 @@
+```plaintext
 MenuBarTimer
 ├── Menu Bar Icon
 │   ├── Shows remaining time
